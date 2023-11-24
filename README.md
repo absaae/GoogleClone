@@ -1,4 +1,4 @@
-# Página clone dr google
+# Página clone de google
 
 ## Descripción:
 Google clone interface.
